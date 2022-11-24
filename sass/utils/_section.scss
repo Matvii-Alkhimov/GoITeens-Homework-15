@@ -1,0 +1,25 @@
+.section{
+    width: 1600px;
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.container{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.second-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    width: 370px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    letter-spacing: 0.03em;
+    color: var(--primary-text-color);
+    margin-bottom: 50px;
+}

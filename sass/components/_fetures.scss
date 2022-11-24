@@ -1,0 +1,28 @@
+.fetures {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: space-between;
+}
+
+.fetures-item {
+    width: 270px;  
+}
+.fetures-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    background: #F5F4FA;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+.fetures-icon {
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+.fetures-title {
+    visibility: hidden;
+}
